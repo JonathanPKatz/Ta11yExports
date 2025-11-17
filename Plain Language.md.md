@@ -1,5 +1,18 @@
 ---
-
+title: Use Plain Language
+description: >-
+  When you write using plain language, you make it easier for people to understand what you write.
+Plain language helps people:
+- understand your content the first time they read it
+- find and use the information they need, quickly and easily
+- avoid the distraction of unnecessarily complex words or sentence structure
+contributors:
+  - en/ellen-liebert
+  - en/Jonathan-katz-ouziel
+  - en/Laura-biray
+  - en/liz-thomas
+sidebar:
+  order: 1
 
 ---
 
