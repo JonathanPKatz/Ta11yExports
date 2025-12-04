@@ -8,11 +8,10 @@ contributors:
   - en/Liz-Thomas
   - en/Jonathan-katz-ouziel
 sidebar:
-  order: 1
+  order: 6
 
 ---
 
-<h1 id="avoid-misunderstood-words">Avoid Misunderstood Words</h1>
 <h2 id="summary">Summary</h2>
 <p>Technical terms, jargon, idioms, acronyms, abbreviations, metaphors, and similes all have the potential to be misunderstood. Defining or explaining these types of words when they must be used helps people to understand information.</p>
 <h2 id="overview">Overview</h2>
