@@ -12,11 +12,10 @@ contributors:
   - en/Laura-biray
   - en/liz-thomas
 sidebar:
-  order: 1
+  order: 2
 
 ---
 
-<h1 id="use-plain-language">Use Plain Language</h1>
 <h2 id="summary">Summary</h2>
 <p>When you write using plain language, you make it easier for people to understand what you write.</p>
 <p>Plain language helps people:</p>
