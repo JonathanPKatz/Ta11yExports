@@ -1,5 +1,5 @@
 ---
-title: Introduction to Writing for Accessibility
+title: Writing for Accessibility
 description: >-
   The primary goal of writing accessible content is to help people find the things they need and understand how to use the things they find. Writing content that is clear, consistent, simple, straightforward, organized, and well-structured can help everyone to more easily perceive and better understand what they read.
 contributors:
@@ -8,11 +8,10 @@ contributors:
   - en/Laura-Biray
   - en/Ellen-Liebert
 sidebar:
-  order: 6
+  order: 1
 
 ---
 
-<h1 id="writing-for-accessibility">Writing for Accessibility</h1>
 <h2 id="summary">Summary</h2>
 <p>The primary goal of writing accessible content is to help people find the things they need and understand how to use the things they find. Writing content that is clear, consistent, simple, straightforward, organized, and well-structured can help everyone to more easily perceive and better understand what they read.</p>
 <h2 id="overview">Overview</h2>
