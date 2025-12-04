@@ -8,11 +8,10 @@ contributors:
   - en/Liz-Thomas
   - en/Jonathan-Katz-Ouziel
 sidebar:
-  order: 1
+  order: 5
 
 ---
 
-<h1 id="use-positive-language">Use Positive Language</h1>
 <h2 id="summary">Summary</h2>
 <p>Negative statements and double negatives can be confusing. Use positive statements instead of negative ones to clarify the sentence’s intent. Avoid double negatives to simplify the meaning of a sentence.</p>
 <h2 id="overview">Overview</h2>
