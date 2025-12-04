@@ -8,11 +8,10 @@ contributors:
   - en/Laura-Biray
   - en/Liz-Thomas
 sidebar:
-  order: 1
+  order: 9
 
 ---
 
-<h1 id="check-spelling--grammar">Check Spelling &amp; Grammar</h1>
 <h2 id="summary">Summary</h2>
 <p>Correct spelling and grammar ensure your content is easy to read. Poor spelling and grammar can lead to misunderstandings. For some people, these can be significant.</p>
 <p>Errors in spelling and grammar can be confusing for:</p>
