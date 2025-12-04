@@ -1,16 +1,18 @@
 ---
+title: Check Reading Level
 description: >-
-  This description will appear as indexable in search engines, open graph and
-  other utilities. Generally, I've taken the intro paragraph or two and copied
-  it here.
+ Readability measures how hard or easy it is to read written text. It’s essential to write in a way that is easy to understand. A minimum reading level of 7th to 9th grade helps people understand content.
 contributors:
-  - en/rachael-bradley-montgomery
+  - en/ellen-liebert
+  - en/laura-biray
+  - en/laura-gould
+  - en/liz-thomas
+  - en/jonathan-katz-ouziel
 sidebar:
-  order: 1
+  order: 10
 
 ---
 
-<h1 id="check-reading-level">Check Reading Level</h1>
 <h2 id="summary">Summary</h2>
 <p>Readability measures how hard or easy it is to read written text. It’s essential to write in a way that is easy to understand. A minimum reading level of 7th to 9th grade:</p>
 <ul>
