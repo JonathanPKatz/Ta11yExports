@@ -8,11 +8,10 @@ contributors:
   - en/Sean-Canavan
   - en/Jonathan-Katz-Ouziel
 sidebar:
-  order: 1
+  order: 8
 
 ---
 
-<h1 id="provide-a-summary">Provide a Summary</h1>
 <h2 id="summary">Summary</h2>
 <p>In this information age, it often feels like there is too much to read. A good summary gives a reader enough information to quickly determine whether a web page or document meets their needs.</p>
 <h2 id="overview">Overview</h2>
