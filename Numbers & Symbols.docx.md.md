@@ -8,11 +8,10 @@ contributors:
   - en/Liz-Thomas
   - en/Jonathan-Katz-Ouziel
 sidebar:
-  order: 1
+  order: 7
 
 ---
 
-<h1 id="clarify-numbers-and-symbols">Clarify Numbers and Symbols</h1>
 <h2 id="summary">Summary</h2>
 <p>Numbers and symbols are common in content, and familiar symbols can aid understanding for many users. However, uncommon symbols and complex number formatting are often difficult for people and assistive technologies to interpret correctly.</p>
 <p>When using long numbers or numerical patterns, it is important to:</p>
