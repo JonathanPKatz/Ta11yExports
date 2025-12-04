@@ -8,11 +8,10 @@ contributors:
   - en/Liz-Thomas
   - en/Jonathan-Katz-Ouziel
 sidebar:
-  order: 1
+  order: 4
 
 ---
 
-<h1 id="use-simple-tense--voice">Use Simple Tense &amp; Voice</h1>
 <h2 id="summary">Summary</h2>
 <p>Using simple tense and voice makes content easier to understand. It is more direct and simplifies the meaning of the content. For example, in English, “read chapter three” is easier to understand than “chapter three should be read.”</p>
 <h2 id="overview">Overview</h2>
