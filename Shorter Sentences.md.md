@@ -1,5 +1,5 @@
 ---
-title: Use Shorter Sentences
+title: Use Shorter Sentences & Paragraphs
 description: >-
   Have you ever read a legal document with long, convoluted sentences? Did you find it hard to understand? Text with long, complex sentences and paragraphs can be difficult for people with language-related disabilities to read. Shorter sentences and paragraphs make content easier for everyone to read and understand.
 contributors:
@@ -8,11 +8,10 @@ contributors:
   - en/Liz-Thomas
   - en/Laura-Biray
 sidebar:
-  order: 1
+  order: 3
 
 ---
 
-<h1 id="use-shorter-sentences--paragraphs">Use Shorter Sentences &amp; Paragraphs</h1>
 <h2 id="summary">Summary</h2>
 <p>Have you ever read a legal document with long, convoluted sentences? Did you find it hard to understand? Text with long, complex sentences and paragraphs can be difficult for people with language-related disabilities to read. Shorter sentences and paragraphs make content easier for everyone to read and understand.</p>
 <h2 id="overview">Overview</h2>
