@@ -1,14 +1,13 @@
 ---
 title: Semantic Markup
 description: >-
- 	Semantic markup is a way of writing code to reflect the meaning of the content. Assistive technologies rely on semantic markup to understand content. 
+Semantic markup is a way of writing code to reflect the meaning of the content. Assistive technologies rely on semantic markup to understand content. 
 contributors:
   - en/ellen-liebert
   - en/liz-thomas
   - en/Jonathan-katz-ouziel
 sidebar:
   order: 1
-
 ---
 
 <h1 id="semantic-markup">Semantic Markup</h1>
