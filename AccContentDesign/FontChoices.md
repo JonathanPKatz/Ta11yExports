@@ -1,7 +1,14 @@
 ---
-extensions:
-  preset: ''
-
+title: Font Choices
+description: >-
+  Making the right font and font-formatting choices improves readability. Some fonts can negatively affect reading and comprehension, especially for people with low vision or disabilities impacted by reading or language processing skills. 
+contributors:
+  - en/Daniela-Marina-Geli
+  - en/Ellen-Liebert
+  - en/Laura-Biray
+  - en/Jonathan-Katz-Ouziel
+sidebar:
+  order: 3
 ---
 
 <h1 id="font--text-choices">Font &amp; Text Choices</h1>
